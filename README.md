@@ -3,7 +3,7 @@
 
 Jogo 2D de um único jogador desenvolvido durante o Curso "O Guia Definitivo para Desenvolvimento de Jogos com Unity" da Udemy.
 
-FUNCIONAMNETO: Atire lasers nas naves inimigas apertando a tecla "SPACE" e colote durante o jogos ativadores como:
+FUNCIONAMENTO: Atire lasers nas naves inimigas apertando a tecla "SPACE" e colote durante o jogos ativadores como:
       - Ativador de Escudo;
       - Ativador de Velocidade;
       - Ativador de Tiro duplo;

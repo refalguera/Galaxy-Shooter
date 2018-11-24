@@ -16,3 +16,10 @@ HOW IT WORKS: Shoot lasers at enemy ships by pressing the "SPACE" key and cast d
        - Shield Activator;
        - Speed Activator;
        - Double Shoot Activator;
+
+                                      MENU PRINCIPAL (MENU)
+![alt text](https://github.com/refalguera/Galaxy-Shooter/blob/master/FinalImages/Galaxy1.PNG)
+
+                         TELA DA PRIMEIRA FASE (FIRST PHASE SCREEN)
+![alt text](https://github.com/refalguera/Galaxy-Shooter/blob/master/FinalImages/Galaxy2.PNG)
+
